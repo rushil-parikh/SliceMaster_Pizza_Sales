@@ -1,5 +1,8 @@
 # SliceMasters Pizza Sales Analysis
 
+![image](https://github.com/user-attachments/assets/2b593bb8-1694-40b1-a859-992193a14e14)
+
+
 ## Project Objective
 The objective of this project was to analyze SliceMasters' pizza sales data to uncover trends, identify top-performing products, and evaluate key performance indicators (KPIs). By leveraging Zeppelin Spark, which utilizes a mix of SQL and HQL, I aimed to provide actionable insights that could drive business decisions for revenue growth and operational efficiency.
 
